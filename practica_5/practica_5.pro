@@ -10,17 +10,17 @@ CONFIG += c++11
 
 SOURCES += \
     bloques.cpp \
+    bomba.cpp \
     main.cpp \
     mainwindow.cpp \
     personaje.cpp \
-    prota.cpp \
     ubicacion.cpp
 
 HEADERS += \
     bloques.h \
+    bomba.h \
     mainwindow.h \
     personaje.h \
-    prota.h \
     ubicacion.h
 
 FORMS += \
